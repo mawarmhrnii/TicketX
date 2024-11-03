@@ -1,0 +1,17 @@
+Tanggal transaksi ; Nama pelanggan ; Jenis tiket ; Nama event; Jumlah tiket; Harga tiket; Total pembayaran
+
+220107;Rere;VIP Ticket;Sunib Superfest;4;300;1200
+220108;Mbappe;VIP Ticket;Java Jazz Festival;3;400;1200
+220108;Ronaldo;VIP Ticket;Acoustic Night;2;600;1200
+220106;Rena;Reguler Ticket;Rest Concert;3;350;1050
+220107;Messi;Reguler Ticket;Sunib Superfest;7;150;1050
+220109;Haryo;Reguler Ticket;Acoustic Night;3;300;900
+220108;Alfito;VIP Ticket;Java Jazz Festival;2;400;800
+220106;Winter;VIP Ticket;Rest Concert;1;750;750
+220107;Hikaru;VIP Ticket;Sunib Superfest;2;300;600
+220110;Haryo;VIP Ticket;Java Jazz Festival;3;200;600
+220107;Haaland;Reguler Ticket;Rest Concert;3;200;600
+220109;Alfito;VIP Ticket;Sunib Superfest;2;200;600
+220108;Yena;VIP Ticket;Music Charity;1;500;500
+220108;Giselle;Reguler Ticket;Music Charity;2;250;500
+220109;Zlatan;VIP Ticket;Music Charity;1;500;500
